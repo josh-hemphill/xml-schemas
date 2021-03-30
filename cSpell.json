@@ -1,0 +1,22 @@
+{
+	"version": "0.1",
+	"language": "en",
+	"words": [
+		"bracketize",
+		"Deno",
+		"errored",
+		"iife",
+		"markdownlint",
+		"Openbase",
+		"pasteable",
+		"Reademe",
+		"Styleguide",
+		"styleguide",
+		"Styleguides",
+		"styleguides",
+		"typeof"
+	],
+	"flagWords": [
+		"hte"
+	]
+}

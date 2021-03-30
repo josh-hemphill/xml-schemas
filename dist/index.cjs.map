@@ -1,0 +1,1 @@
+{"version":3,"file":"index.cjs","sources":["../src/lib/index.ts"],"sourcesContent":["export function hello_world(): void {\n\t// eslint-disable-next-line no-console\n\tconsole.log('hello world');\n}\n"],"names":["console","log"],"mappings":"wFAAM,WAEFA,QAAQC,IAAI"}

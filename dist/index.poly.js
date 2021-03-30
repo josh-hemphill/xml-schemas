@@ -1,0 +1,2 @@
+!function(e,o){"object"==typeof exports&&"undefined"!=typeof module?o(exports):"function"==typeof define&&define.amd?define(["exports"],o):o((e="undefined"!=typeof globalThis?globalThis:e||self)["deno-node-template"]=e["deno-node-template"]||{})}(this,(function(e){"use strict";e.hello_world=function(){console.log("hello world")},Object.defineProperty(e,"__esModule",{value:!0})}));
+//# sourceMappingURL=index.poly.js.map
